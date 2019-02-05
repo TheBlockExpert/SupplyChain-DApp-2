@@ -1,0 +1,24 @@
+## SupplyChain
+
+Contract address - 0xa05439f12bcd92894b69f48cf5501556a080a911
+Transaction Id - 0xfec89212022a17178f83723806ba7b4df89a8be078c91c30ebcb5c7f35b14268
+
+## FarmerRole
+
+Contract address - 0x69a4024c6ebc7fe79e61ce238ffede8cfd07aecd
+Transaction Id - 0xe209d083f2b4fbe72416a12ed62053087fdab3482920d8c39aa29f59a05a06ec
+
+## DistributorRole
+
+Contract address - 0x1dcb9d625852003e0e862feadb0d0318b1c96826
+Transaction Id - 0xf61b6aa6d3421bfa6ad9084cd46a69a37d6ec6271ccf2a794dc3009a8f83ac37
+
+## RetailerRole
+
+Contract address - 0x0bd90467a401dac89aab1edf00ba2de091e3dbe4
+Transaction Id - 0x221034252a7fbe5c771d36ce48280617d6d9291e606039d4bfcc38d747309f37
+
+## ConsumerRole
+
+Contract address - 0x23650f9ad0ddc7c121dc80cbcb1c09080adf0d6e
+Transaction Id - 0xb67c1aab635eeaa584ca17c6599e6843c0752f6d044451160e77aa5637257b84

@@ -1,16 +1,20 @@
 {
-  "name": "supply-chain-E",
+  "name": "project-6",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Contract address - 0xa05439f12bcd92894b69f48cf5501556a080a911\r Transaction Id - 0xfec89212022a17178f83723806ba7b4df89a8be078c91c30ebcb5c7f35b14268",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "lite-server": "^2.4.0",
+    "truffle-hdwallet-provider": "^1.0.3"
+  },
+  "devDependencies": {},
   "scripts": {
-    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
-  "author": "pk <pkrasam@gmail.com> (https://ipfs.infura.io/ipfs/QmSXiR9Khm3yo1J67nUopvVBxFJ8YGN2fUGZ34Etr3m92x/)",
-  "license": "MIT",
-  "devDependencies": {
-    "lite-server": "2.4.0"
-  }
+  "author": "",
+  "license": "ISC"
 }
